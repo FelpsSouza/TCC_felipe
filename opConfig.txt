@@ -1,0 +1,27 @@
+Trade Simbol1:BTCBRL
+Trade Simbol2:DOGEBRL
+Trade Simbol3:BTCBRL
+Trade Simbol4:ETHBRL
+Trade Simbol5:ADABRL
+
+KANDLE TIME:1m
+
+Trade Quantity1:0.00033
+Trade Quantity2:75
+Trade Quantity3:0.003
+Trade Quantity4:0.0001
+Trade Quantity5:12.1
+
+RSI Period:14
+RSI Overbought:70
+RSI Oversold:30
+
+BB Period:20
+Up BB Mult:2
+Lw BB Mult:2
+
+Stop Loss:0.01
+Stop Win:0.01
+
+
+#EndFile
